@@ -27,6 +27,8 @@ html{
 body{
     background-image: url(img/MJ_Portrait-3.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     color: var(--text-color);
 
 }
